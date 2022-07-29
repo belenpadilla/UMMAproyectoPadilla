@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family= Gulzar & display=swap');
+
+*{
+    font-family:  'Gulzar', serif;
+}
+
+h1{
+    color: #DDFDFE;
+}
+.logo{
+    width: 150px;
+}
+
+div img {
+    width: 50%;
+}
+header{
+    background-color: #61a9d6;
+}
