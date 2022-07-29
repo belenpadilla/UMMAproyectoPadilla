@@ -6,8 +6,16 @@
 }
 
 h1{
-    color: #DDFDFE;
+    color: #2b7d80;
 
+}
+h2{
+    text-align: center;   
+}
+.textoInicio{
+  border: 2px #61a9d6 solid;
+  background-image: url(../trab-Bootstrap/fotitos/Diseño\ sin\ título\ \(1\).png);
+  
 }
 .logo{
     width: 150px;
@@ -22,7 +30,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #61a9d6;
+    background-image: url(../trab-Bootstrap/fotitos/Diseño\ sin\ título\ \(8\).png);
 
 }
 ul{
@@ -40,12 +48,24 @@ ul li {
 a{
     display: flex;
     text-decoration: none;
-    color: cornflowerblue;
+    color: rgb(35, 70, 133);
  
     
 }
 nav{
     display: flex;
     justify-content: center;
+    background-color: #669dca;
     
+}
+footer {
+    background-color:  #61a9d6;
+   
+}
+.footerInicio{
+    
+    text-align: center;
+}
+.hacheUno{
+    text-align: center;
 }
