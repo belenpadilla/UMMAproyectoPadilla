@@ -1,11 +1,13 @@
-@import url('https://fonts.googleapis.com/css2? family= Gulzar & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
 
 *{
-    font-family:  'Gulzar', serif;
+
+    font-family:   'Gulzar', serif;
 }
 
 h1{
     color: #DDFDFE;
+
 }
 .logo{
     width: 150px;
@@ -14,6 +16,36 @@ h1{
 div img {
     width: 50%;
 }
-header{
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #61a9d6;
+
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    gap: 10px;
+       
+}
+ul li {
+    display: flex;
+    list-style: none;
+    margin-left: 10px;
+    gap: 10px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color: cornflowerblue;
+ 
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+    
 }
