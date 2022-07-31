@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
 
 *{
+    margin: 0%;
+    padding: 0%;
 
     font-family:   'Gulzar', serif;
 }
-
+body{
+    background-color: #FFFFFB;
+}
 h1{
     color: #2b7d80;
 
@@ -12,8 +16,11 @@ h1{
 h2{
     text-align: center;   
 }
+h3{
+   background-color:#669dca ;
+}
 .textoInicio{
-  border: 2px #61a9d6 solid;
+  
   background-image: url(../trab-Bootstrap/fotitos/Diseño\ sin\ título\ \(1\).png);
   
 }
@@ -30,7 +37,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../trab-Bootstrap/fotitos/Diseño\ sin\ título\ \(8\).png);
+    background-image: url(../trab-Bootstrap/fotitos/Diseño\ sin\ título\ \(11\).png);
+    
 
 }
 ul{
@@ -64,8 +72,5 @@ footer {
 }
 .footerInicio{
     
-    text-align: center;
-}
-.hacheUno{
     text-align: center;
 }
