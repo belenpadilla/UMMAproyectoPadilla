@@ -74,3 +74,17 @@ footer {
     
     text-align: center;
 }
+.fotosInicioCambio{
+    transition: height 0.5s, width 0.10s;
+}
+.fotosInicioCambio:hover {
+    height: 300px;
+    width: 300px
+}
+.fotosProduCambio{
+    transition:height 0.5s, width 0.10s;
+}
+.fotosProduCambio:hover{
+    height: 300px;
+    width: 300px;
+}
