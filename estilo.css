@@ -7,7 +7,7 @@
     font-family:   'Gulzar', serif;
 }
 body{
-    background-color: #FFFFFB;
+    background-color: #dbc0d6;
 }
 h1{
     color: #2b7d80;
@@ -17,7 +17,7 @@ h2{
     text-align: center;   
 }
 h3{
-   background-color:#669dca ;
+   background-color: #dbc0d6 ;
 }
 .textoInicio{
   
@@ -67,7 +67,7 @@ nav{
     
 }
 footer {
-    background-color:  #61a9d6;
+    background-color:  #dbc0d6;
    
 }
 .footerInicio{
@@ -87,4 +87,9 @@ footer {
 .fotosProduCambio:hover{
     height: 300px;
     width: 300px;
+}
+.botonCambio{
+    color: #fff6f9;
+    background-color: #2b7d80;
+
 }
